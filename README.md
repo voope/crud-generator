@@ -15,7 +15,7 @@ composer require appzcoder/crud-generator --dev
 
 ## Author
 
-[Paulo Rodrigues](http://voope.com.br) :email: [Email Me](mailto:paulinhojrodrigues@gmail.com)
+[Paulo Rodrigues](http://voope.com.br) :email: [Email Me](mailto:paulo@voope.com.br)
 
 ## License
 
