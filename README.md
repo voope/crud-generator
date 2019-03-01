@@ -8,7 +8,7 @@ This Generator package provides various generators like CRUD, API, Controller, M
 
 ## Installation
 ```
-composer require appzcoder/crud-generator --dev
+composer require voope/crud-generator --dev
 ```
 
 #### If you're still looking for easier one then try this [Admin Panel](https://github.com/voope/laravel-admin)
